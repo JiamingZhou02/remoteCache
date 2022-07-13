@@ -176,7 +176,9 @@
 			buildConfigurationList = 4B1F0EBA287E2F2C00CF3E2E /* Build configuration list for PBXNativeTarget "RemoteCacheTest" */;
 			buildPhases = (
 				A7F9DDDC4BC0FFF70832EA98 /* [CP] Check Pods Manifest.lock */,
+				90114014557E0C945C7D96F0 /* [XCRC] Prebuild RemoteCacheTest */,
 				4B1F0E8C287E2F2900CF3E2E /* Sources */,
+				6520FA9FDCADEC5EA9707902 /* [XCRC] Postbuild RemoteCacheTest */,
 				4B1F0E8D287E2F2900CF3E2E /* Frameworks */,
 				4B1F0E8E287E2F2900CF3E2E /* Resources */,
 				643275C380B1150A96A75B5D /* [CP] Embed Pods Frameworks */,
@@ -196,7 +198,9 @@
 			buildConfigurationList = 4B1F0EBD287E2F2C00CF3E2E /* Build configuration list for PBXNativeTarget "RemoteCacheTestTests" */;
 			buildPhases = (
 				DBAD77A5D1330B1233AE45AF /* [CP] Check Pods Manifest.lock */,
+				3344FD2515B8E6DE2835C1B6 /* [XCRC] Prebuild RemoteCacheTestTests */,
 				4B1F0EA2287E2F2C00CF3E2E /* Sources */,
+				EA2B7EB1D59CB4E829B6A8DD /* [XCRC] Postbuild RemoteCacheTestTests */,
 				4B1F0EA3287E2F2C00CF3E2E /* Frameworks */,
 				4B1F0EA4287E2F2C00CF3E2E /* Resources */,
 			);
@@ -215,7 +219,9 @@
 			buildConfigurationList = 4B1F0EC0287E2F2C00CF3E2E /* Build configuration list for PBXNativeTarget "RemoteCacheTestUITests" */;
 			buildPhases = (
 				E429775D8416B354D1B2A753 /* [CP] Check Pods Manifest.lock */,
+				48FC485ACD71B2AD24D8AA9F /* [XCRC] Prebuild RemoteCacheTestUITests */,
 				4B1F0EAC287E2F2C00CF3E2E /* Sources */,
+				4CE15E3D206F168C2A5663CF /* [XCRC] Postbuild RemoteCacheTestUITests */,
 				4B1F0EAD287E2F2C00CF3E2E /* Frameworks */,
 				4B1F0EAE287E2F2C00CF3E2E /* Resources */,
 				AE4FBC47596C827AAF8E161D /* [CP] Embed Pods Frameworks */,
@@ -319,6 +325,72 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RemoteCacheTest/Pods-RemoteCacheTest-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
+		3344FD2515B8E6DE2835C1B6 /* [XCRC] Prebuild RemoteCacheTestTests */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			dependencyFile = "$(TARGET_TEMP_DIR)/prebuild.d";
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$SRCROOT/XCRC/xcprebuild",
+			);
+			name = "[XCRC] Prebuild RemoteCacheTestTests";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(TARGET_TEMP_DIR)/rc.enabled",
+				"$(DWARF_DSYM_FOLDER_PATH)/$(DWARF_DSYM_FILE_NAME)",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"$SCRIPT_INPUT_FILE_0\"";
+		};
+		48FC485ACD71B2AD24D8AA9F /* [XCRC] Prebuild RemoteCacheTestUITests */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			dependencyFile = "$(TARGET_TEMP_DIR)/prebuild.d";
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$SRCROOT/XCRC/xcprebuild",
+			);
+			name = "[XCRC] Prebuild RemoteCacheTestUITests";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(TARGET_TEMP_DIR)/rc.enabled",
+				"$(DWARF_DSYM_FOLDER_PATH)/$(DWARF_DSYM_FILE_NAME)",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"$SCRIPT_INPUT_FILE_0\"";
+		};
+		4CE15E3D206F168C2A5663CF /* [XCRC] Postbuild RemoteCacheTestUITests */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			dependencyFile = "$(TARGET_TEMP_DIR)/postbuild.d";
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$SRCROOT/XCRC/xcpostbuild",
+			);
+			name = "[XCRC] Postbuild RemoteCacheTestUITests";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(TARGET_BUILD_DIR)/$(MODULES_FOLDER_PATH)/$(PRODUCT_MODULE_NAME).swiftmodule/$(XCRC_PLATFORM_PREFERRED_ARCH).swiftmodule.md5",
+				"$(TARGET_BUILD_DIR)/$(MODULES_FOLDER_PATH)/$(PRODUCT_MODULE_NAME).swiftmodule/$(XCRC_PLATFORM_PREFERRED_ARCH)-$(LLVM_TARGET_TRIPLE_VENDOR)-$(SWIFT_PLATFORM_TARGET_PREFIX)$(LLVM_TARGET_TRIPLE_SUFFIX).swiftmodule.md5",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"$SCRIPT_INPUT_FILE_0\"";
+		};
 		643275C380B1150A96A75B5D /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -335,6 +407,69 @@
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RemoteCacheTest/Pods-RemoteCacheTest-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
+		};
+		6520FA9FDCADEC5EA9707902 /* [XCRC] Postbuild RemoteCacheTest */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			dependencyFile = "$(TARGET_TEMP_DIR)/postbuild.d";
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$SRCROOT/XCRC/xcpostbuild",
+			);
+			name = "[XCRC] Postbuild RemoteCacheTest";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(TARGET_BUILD_DIR)/$(MODULES_FOLDER_PATH)/$(PRODUCT_MODULE_NAME).swiftmodule/$(XCRC_PLATFORM_PREFERRED_ARCH).swiftmodule.md5",
+				"$(TARGET_BUILD_DIR)/$(MODULES_FOLDER_PATH)/$(PRODUCT_MODULE_NAME).swiftmodule/$(XCRC_PLATFORM_PREFERRED_ARCH)-$(LLVM_TARGET_TRIPLE_VENDOR)-$(SWIFT_PLATFORM_TARGET_PREFIX)$(LLVM_TARGET_TRIPLE_SUFFIX).swiftmodule.md5",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"$SCRIPT_INPUT_FILE_0\"";
+		};
+		8B73C1B9147B719279E85F23 /* [XCRC] Mark */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$SRCROOT/XCRC/xcprepare",
+			);
+			name = "[XCRC] Mark";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"$SCRIPT_INPUT_FILE_0\" mark --configuration \"$CONFIGURATION\" --platform $PLATFORM_NAME";
+		};
+		90114014557E0C945C7D96F0 /* [XCRC] Prebuild RemoteCacheTest */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			dependencyFile = "$(TARGET_TEMP_DIR)/prebuild.d";
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$SRCROOT/XCRC/xcprebuild",
+			);
+			name = "[XCRC] Prebuild RemoteCacheTest";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(TARGET_TEMP_DIR)/rc.enabled",
+				"$(DWARF_DSYM_FOLDER_PATH)/$(DWARF_DSYM_FILE_NAME)",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"$SCRIPT_INPUT_FILE_0\"";
 		};
 		A7F9DDDC4BC0FFF70832EA98 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -418,6 +553,28 @@
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
+		};
+		EA2B7EB1D59CB4E829B6A8DD /* [XCRC] Postbuild RemoteCacheTestTests */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			dependencyFile = "$(TARGET_TEMP_DIR)/postbuild.d";
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$SRCROOT/XCRC/xcpostbuild",
+			);
+			name = "[XCRC] Postbuild RemoteCacheTestTests";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(TARGET_BUILD_DIR)/$(MODULES_FOLDER_PATH)/$(PRODUCT_MODULE_NAME).swiftmodule/$(XCRC_PLATFORM_PREFERRED_ARCH).swiftmodule.md5",
+				"$(TARGET_BUILD_DIR)/$(MODULES_FOLDER_PATH)/$(PRODUCT_MODULE_NAME).swiftmodule/$(XCRC_PLATFORM_PREFERRED_ARCH)-$(LLVM_TARGET_TRIPLE_VENDOR)-$(SWIFT_PLATFORM_TARGET_PREFIX)$(LLVM_TARGET_TRIPLE_SUFFIX).swiftmodule.md5",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"$SCRIPT_INPUT_FILE_0\"";
 		};
 		EE659B4E9B17D204C701E540 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -621,6 +778,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CC = "$SRCROOT/.rc/xccc";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = W7M4MXQXN3;
@@ -631,18 +789,29 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD = "$SRCROOT/XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/XCRC/xclibtool";
 				MARKETING_VERSION = 1.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.JiamingZhou.RemoteCacheTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_EXEC = "$SRCROOT/XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -652,6 +821,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CC = "$SRCROOT/.rc/xccc";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = W7M4MXQXN3;
@@ -662,18 +832,29 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD = "$SRCROOT/XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/XCRC/xclibtool";
 				MARKETING_VERSION = 1.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.JiamingZhou.RemoteCacheTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_EXEC = "$SRCROOT/XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -683,20 +864,32 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CC = "$SRCROOT/.rc/xccc";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = W7M4MXQXN3;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				LD = "$SRCROOT/XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/XCRC/xcldplusplus";
+				LIBTOOL = "$SRCROOT/XCRC/xclibtool";
 				MARKETING_VERSION = 1.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.JiamingZhou.RemoteCacheTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_EXEC = "$SRCROOT/XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RemoteCacheTest.app/RemoteCacheTest";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -706,20 +899,32 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CC = "$SRCROOT/.rc/xccc";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = W7M4MXQXN3;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				LD = "$SRCROOT/XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/XCRC/xcldplusplus";
+				LIBTOOL = "$SRCROOT/XCRC/xclibtool";
 				MARKETING_VERSION = 1.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.JiamingZhou.RemoteCacheTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_EXEC = "$SRCROOT/XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RemoteCacheTest.app/RemoteCacheTest";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -728,19 +933,31 @@
 			baseConfigurationReference = DF675C5DDAE1387B90CB4602 /* Pods-RemoteCacheTest-RemoteCacheTestUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CC = "$SRCROOT/.rc/xccc";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = W7M4MXQXN3;
 				GENERATE_INFOPLIST_FILE = YES;
+				LD = "$SRCROOT/XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/XCRC/xcldplusplus";
+				LIBTOOL = "$SRCROOT/XCRC/xclibtool";
 				MARKETING_VERSION = 1.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.JiamingZhou.RemoteCacheTestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_EXEC = "$SRCROOT/XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = RemoteCacheTest;
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -749,19 +966,31 @@
 			baseConfigurationReference = ECFDAC3DD04A8123A7754D01 /* Pods-RemoteCacheTest-RemoteCacheTestUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CC = "$SRCROOT/.rc/xccc";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = W7M4MXQXN3;
 				GENERATE_INFOPLIST_FILE = YES;
+				LD = "$SRCROOT/XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/XCRC/xcldplusplus";
+				LIBTOOL = "$SRCROOT/XCRC/xclibtool";
 				MARKETING_VERSION = 1.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.JiamingZhou.RemoteCacheTestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_EXEC = "$SRCROOT/XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = RemoteCacheTest;
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};

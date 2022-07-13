@@ -11203,7 +11203,9 @@
 			buildConfigurationList = BBC5858640089E93046D76FCA0286613 /* Build configuration list for PBXNativeTarget "AffirmSDK" */;
 			buildPhases = (
 				D832A56CB5CDD668CB6DCD1AC8D37116 /* Headers */,
+				46EB2E00016040 /* [XCRC] Prebuild AffirmSDK */,
 				2595466E9914C0B45158D55CEEF04E3D /* Sources */,
+				46EB2E00016050 /* [XCRC] Postbuild AffirmSDK */,
 				67DF8C05472C1BC82A23C302E5CA0A92 /* Frameworks */,
 				6078D5320B455F38712002B1C6AED282 /* Resources */,
 			);
@@ -11281,7 +11283,9 @@
 			buildConfigurationList = EF4F5F4D455C7EE6D34BEBFA72DAF519 /* Build configuration list for PBXNativeTarget "PromisesObjC" */;
 			buildPhases = (
 				CE9100ED1B8427EADBD8263EB1DA0DDC /* Headers */,
+				46EB2E00016340 /* [XCRC] Prebuild PromisesObjC */,
 				44DF866FB5B5587850D1CB5D98F9A681 /* Sources */,
+				46EB2E00016350 /* [XCRC] Postbuild PromisesObjC */,
 				498284EAC1458E701F2FC0CB34A1CC3A /* Frameworks */,
 				09382BCB36367413783CF3B76360D5AA /* Resources */,
 			);
@@ -11299,7 +11303,9 @@
 			buildConfigurationList = CF35C7C6A4542EA8D5FD1341DC3DDC63 /* Build configuration list for PBXNativeTarget "FirebasePerformance" */;
 			buildPhases = (
 				B891E51CEBD0FA6078DA15FF996FBEF8 /* Headers */,
+				46EB2E00016220 /* [XCRC] Prebuild FirebasePerformance */,
 				BFEB86E50D640B8EC510E0A0590459D1 /* Sources */,
+				46EB2E00016230 /* [XCRC] Postbuild FirebasePerformance */,
 				B777688AAC7BE389CFB75719F0C3A732 /* Frameworks */,
 				00A97CED294078E6A813335CE6439DCE /* Resources */,
 			);
@@ -11323,7 +11329,9 @@
 			buildConfigurationList = E91B32705CA4B150ED3E4B5C09F3557B /* Build configuration list for PBXNativeTarget "FirebaseCore" */;
 			buildPhases = (
 				770A844AF73A8A0C8AFB74CC0F7AB682 /* Headers */,
+				46EB2E000161A0 /* [XCRC] Prebuild FirebaseCore */,
 				C2FF8A6CBA93E268A7767490EC7D24EF /* Sources */,
+				46EB2E000161B0 /* [XCRC] Postbuild FirebaseCore */,
 				FBE252AD8304ABD87BFF2DCBD59C4CF7 /* Frameworks */,
 				B56E51472D61001B1DBE089956644F6A /* Resources */,
 			);
@@ -11343,7 +11351,9 @@
 			buildConfigurationList = 71BBBD857628D6B22441A6D27DCB90C6 /* Build configuration list for PBXNativeTarget "RxRelay" */;
 			buildPhases = (
 				3F9847D9DF63B90FF481FEA3DAB8F5FE /* Headers */,
+				46EB2E00016380 /* [XCRC] Prebuild RxRelay */,
 				26FC40C52C542BE736CC4FA5D9076EEB /* Sources */,
+				46EB2E00016390 /* [XCRC] Postbuild RxRelay */,
 				89A29F76EDCD8517B00EAC688A64CAD3 /* Frameworks */,
 				21B407DD4AECFC2D4350AAED51C8B588 /* Resources */,
 			);
@@ -11381,7 +11391,9 @@
 			buildConfigurationList = 6B88FACA1B3CF5E4B4F1A8A6382885B7 /* Build configuration list for PBXNativeTarget "FirebaseRemoteConfig" */;
 			buildPhases = (
 				807CFCC262D203DDD1162F54754060CE /* Headers */,
+				46EB2E00016240 /* [XCRC] Prebuild FirebaseRemoteConfig */,
 				3D7F8A296B3CECFEC648C9D85BBD2D97 /* Sources */,
+				46EB2E00016250 /* [XCRC] Postbuild FirebaseRemoteConfig */,
 				37CCCC5194EB38FE909677A7CD76DEAF /* Frameworks */,
 				7CA9EB8687CD404952B8A701B6259FA4 /* Resources */,
 			);
@@ -11403,7 +11415,9 @@
 			buildConfigurationList = A067EE1BD26EC0F2B449DC95B9D7E93F /* Build configuration list for PBXNativeTarget "FirebaseCrashlytics" */;
 			buildPhases = (
 				516B077B6440956AC30D28A1F19C7E42 /* Headers */,
+				46EB2E000161E0 /* [XCRC] Prebuild FirebaseCrashlytics */,
 				ADB42A47A5714A303826B3D440F4411C /* Sources */,
+				46EB2E000161F0 /* [XCRC] Postbuild FirebaseCrashlytics */,
 				A393A37DE37812012C968423DE008A81 /* Frameworks */,
 				5235C157883B70FDA53FDBD3FE382396 /* Resources */,
 			);
@@ -11427,7 +11441,9 @@
 			buildConfigurationList = 1B8154F4AF9A1F3A269DF4D64E4A0AD7 /* Build configuration list for PBXNativeTarget "GoogleDataTransport" */;
 			buildPhases = (
 				DAF90D661835A66FF79A7606B9B6A6D3 /* Headers */,
+				46EB2E00016260 /* [XCRC] Prebuild GoogleDataTransport */,
 				C9CA6B59575ABFEDC4BBFF74190CD186 /* Sources */,
+				46EB2E00016270 /* [XCRC] Postbuild GoogleDataTransport */,
 				F25524619A19CBB8B31C708EAAE0207B /* Frameworks */,
 				0D28FC9FB71D1380FF971270BF1DE1AA /* Resources */,
 			);
@@ -11448,7 +11464,9 @@
 			buildConfigurationList = AA5A2205A881DE5528CA6FE384DDD74F /* Build configuration list for PBXNativeTarget "AppAuth" */;
 			buildPhases = (
 				6A580A63AF4C377C0A5656869023B866 /* Headers */,
+				46EB2E000160A0 /* [XCRC] Prebuild AppAuth */,
 				67ECF0CEF949530990C82EC62D56BD49 /* Sources */,
+				46EB2E000160B0 /* [XCRC] Postbuild AppAuth */,
 				E8703AD13333A0CEC142335B7F4DFB50 /* Frameworks */,
 				2DE9CAF821DA733AF87E03FB3357AFE5 /* Resources */,
 			);
@@ -11466,7 +11484,9 @@
 			buildConfigurationList = F371515B684DFEF9DB1532917FA87332 /* Build configuration list for PBXNativeTarget "FirebaseCoreDiagnostics" */;
 			buildPhases = (
 				5BB6F94A000AD05C303A6053D67329A6 /* Headers */,
+				46EB2E000161C0 /* [XCRC] Prebuild FirebaseCoreDiagnostics */,
 				CE56793416C17992EBA54FC0271E0267 /* Sources */,
+				46EB2E000161D0 /* [XCRC] Postbuild FirebaseCoreDiagnostics */,
 				09440D052ACB29F6E319D914614B337F /* Frameworks */,
 				A0A6BF8E44AA03CCB0F9DF57801E50B9 /* Resources */,
 			);
@@ -11487,7 +11507,9 @@
 			buildConfigurationList = F99D511E702A9AD623A58C794C48CB04 /* Build configuration list for PBXNativeTarget "Adyen" */;
 			buildPhases = (
 				67960FC6B01E9C07E27BAEFBD09F3EE3 /* Headers */,
+				46EB2E00016000 /* [XCRC] Prebuild Adyen */,
 				7114B38C5D56AAFBC1821F04B563D46B /* Sources */,
+				46EB2E00016010 /* [XCRC] Postbuild Adyen */,
 				B5B7EAB0590971AB2038F7C3420011A5 /* Frameworks */,
 				BEF552064F8DFFA55524EAB9BCAA6211 /* Resources */,
 			);
@@ -11568,7 +11590,9 @@
 			buildConfigurationList = 6D7D1EC663F98698CABE1DF1043CF59A /* Build configuration list for PBXNativeTarget "RxCocoa" */;
 			buildPhases = (
 				A95C3401225598EFB3D37AFEC99E99B3 /* Headers */,
+				46EB2E00016360 /* [XCRC] Prebuild RxCocoa */,
 				85D9FD256F1CF2C623A408992CBAE7AB /* Sources */,
+				46EB2E00016370 /* [XCRC] Postbuild RxCocoa */,
 				4821580B3AEEDDCFEBD606933FE35050 /* Frameworks */,
 				2FC0070C64EB0C07233076A34A993F80 /* Resources */,
 			);
@@ -11605,7 +11629,9 @@
 			buildConfigurationList = A7BD2681E97C00DCC2EF91B0EBA76110 /* Build configuration list for PBXNativeTarget "MBProgressHUD" */;
 			buildPhases = (
 				5D82C29ACD851E6EA219B34A73C961F5 /* Headers */,
+				46EB2E00016300 /* [XCRC] Prebuild MBProgressHUD */,
 				7E957D4020E4C4BC633BF50F7F51E5F6 /* Sources */,
+				46EB2E00016310 /* [XCRC] Postbuild MBProgressHUD */,
 				D6DC8F0C2894774845C1DD2E7CA07B0C /* Frameworks */,
 				C0E0F7D28F4D633128D0F53BEAE34D3D /* Resources */,
 			);
@@ -11623,7 +11649,9 @@
 			buildConfigurationList = 1166072F19D605AE7E4B016DD27CFA21 /* Build configuration list for PBXNativeTarget "GTMAppAuth" */;
 			buildPhases = (
 				21DAE4FF14902DFE0DDEBEBCEB6074E9 /* Headers */,
+				46EB2E000162C0 /* [XCRC] Prebuild GTMAppAuth */,
 				892AB60EF9089CFFAB9EC9C56DF04956 /* Sources */,
+				46EB2E000162D0 /* [XCRC] Postbuild GTMAppAuth */,
 				302506E051712082C0B5E6E92B04546C /* Frameworks */,
 				6A8691D9D62A92267A23BD533B3D4D7C /* Resources */,
 			);
@@ -11643,7 +11671,9 @@
 			buildConfigurationList = 93A7A78CA20BAC94A3F9886C8663B795 /* Build configuration list for PBXNativeTarget "FirebaseInstallations" */;
 			buildPhases = (
 				A79EF9450775298F5139E231B1701D80 /* Headers */,
+				46EB2E00016200 /* [XCRC] Prebuild FirebaseInstallations */,
 				B87065F442AFA13A5FCE6C26A8AA1E1A /* Sources */,
+				46EB2E00016210 /* [XCRC] Postbuild FirebaseInstallations */,
 				DCC62CD605C0B9A411224C9DD8D1B215 /* Frameworks */,
 				1AE695AECD2C4CF8837A3E7E20A368C9 /* Resources */,
 			);
@@ -11664,7 +11694,9 @@
 			buildConfigurationList = C4C9EBDB125CEC73EDAA7207A723964F /* Build configuration list for PBXNativeTarget "GoogleUtilities" */;
 			buildPhases = (
 				F67272C67F4F62B6180FC08DC698FC07 /* Headers */,
+				46EB2E000162A0 /* [XCRC] Prebuild GoogleUtilities */,
 				6735E77524A5417E51B312BCB9CD0061 /* Sources */,
+				46EB2E000162B0 /* [XCRC] Postbuild GoogleUtilities */,
 				522C7524551FD5303E92F56D89824CE3 /* Frameworks */,
 				3FECCD7D5E579CDA06B84F70CFB4BAC9 /* Resources */,
 			);
@@ -11683,7 +11715,9 @@
 			buildConfigurationList = 3D1EEF101C05767603FAC8F08EE0E7D8 /* Build configuration list for PBXNativeTarget "FirebaseABTesting" */;
 			buildPhases = (
 				B33221655D6D8AA22419604AA8505CE9 /* Headers */,
+				46EB2E00016180 /* [XCRC] Prebuild FirebaseABTesting */,
 				82C336C76740FA1DD7449F2D13BCFC62 /* Sources */,
+				46EB2E00016190 /* [XCRC] Postbuild FirebaseABTesting */,
 				F3EA9336A91EB94ECBAE926823AB06B3 /* Frameworks */,
 				41CF0254505A8248028D5894D7601D34 /* Resources */,
 			);
@@ -11702,7 +11736,9 @@
 			buildConfigurationList = 73CDD4D6E025243A418E8E1D2C8C1E6F /* Build configuration list for PBXNativeTarget "DTFoundation" */;
 			buildPhases = (
 				87CC23ABBCFCC2744ECDAA63EE9FB372 /* Headers */,
+				46EB2E00016160 /* [XCRC] Prebuild DTFoundation */,
 				7C44AD8998490F49BB3A5F28301683E5 /* Sources */,
+				46EB2E00016170 /* [XCRC] Postbuild DTFoundation */,
 				054942BF01FDA89C58458635AC34A447 /* Frameworks */,
 				CE8FD175E562EC62820E179B184D9CA6 /* Resources */,
 			);
@@ -11720,7 +11756,9 @@
 			buildConfigurationList = E40E16E2D7CA67AC68883E14C584C906 /* Build configuration list for PBXNativeTarget "DTCoreText" */;
 			buildPhases = (
 				42472C5BBF44AA0F1CB107C9650FA659 /* Headers */,
+				46EB2E00016140 /* [XCRC] Prebuild DTCoreText */,
 				E3F6C3F9B473956853878A49BA9C4E6A /* Sources */,
+				46EB2E00016150 /* [XCRC] Postbuild DTCoreText */,
 				860C4ED9ECF5D75EB6749CE955788EA0 /* Frameworks */,
 				6D355C7753EC75FA14667CA80D351AAF /* Resources */,
 			);
@@ -11740,7 +11778,9 @@
 			buildPhases = (
 				934D531D4C71994C072E53BEA8EF9EDB /* Headers */,
 				73AC20D8B179538E91152ADCCCF35E71 /* [CP] Copy XCFrameworks */,
+				46EB2E000160E0 /* [XCRC] Prebuild Braintree */,
 				1A1D40FC733E44CB802C41401F04E133 /* Sources */,
+				46EB2E000160F0 /* [XCRC] Postbuild Braintree */,
 				A60522FA0758D78F1925DC1B0C5EB518 /* Frameworks */,
 				2C302FDB0FCD3C302CE518D9474CAEED /* Resources */,
 			);
@@ -11758,7 +11798,9 @@
 			buildConfigurationList = 4E85C432CC05F7983006065022024164 /* Build configuration list for PBXNativeTarget "Atributika" */;
 			buildPhases = (
 				5DE08953825ADC3F94F67866069E0275 /* Headers */,
+				46EB2E000160C0 /* [XCRC] Prebuild Atributika */,
 				675098B42D4A3B8A3C31E69F49A1CA00 /* Sources */,
+				46EB2E000160D0 /* [XCRC] Postbuild Atributika */,
 				39072C08D28D7337AC0F077C2B03E95D /* Frameworks */,
 				9E493DA359831C691E5B043867B28029 /* Resources */,
 			);
@@ -11776,7 +11818,9 @@
 			buildConfigurationList = 8C62FBBC8D76F3815F04F8BA9C268843 /* Build configuration list for PBXNativeTarget "Charts" */;
 			buildPhases = (
 				C13C058325DDFB065C5CA1EC6DCBA1C1 /* Headers */,
+				46EB2E00016120 /* [XCRC] Prebuild Charts */,
 				7498FAC781EB8A184CDCF0B26D2A5C37 /* Sources */,
+				46EB2E00016130 /* [XCRC] Postbuild Charts */,
 				E13D5596F3FD28FB54AAB132061B48A4 /* Frameworks */,
 				758DD399F9F318FD8A2304DCB695C4B0 /* Resources */,
 			);
@@ -11794,7 +11838,9 @@
 			buildConfigurationList = 602010017F4512DCB3BA8F5FB83162FB /* Build configuration list for PBXNativeTarget "Branch" */;
 			buildPhases = (
 				E8AB8F9871CE821CBFBD3FCD3AB0AD7A /* Headers */,
+				46EB2E00016100 /* [XCRC] Prebuild Branch */,
 				552BBA5355C2FC82055FB23373CE9B22 /* Sources */,
+				46EB2E00016110 /* [XCRC] Postbuild Branch */,
 				8A8BD264EDA50704B1656CFA1DA935FA /* Frameworks */,
 				43FEF441FC11C4A2B649BC882F6D044F /* Resources */,
 			);
@@ -11812,7 +11858,9 @@
 			buildConfigurationList = 041F862A2B6AF7B2404F640B8918A5F9 /* Build configuration list for PBXNativeTarget "AlamofireImage" */;
 			buildPhases = (
 				EBB052BC0FC823C57A64E27E2922055D /* Headers */,
+				46EB2E00016080 /* [XCRC] Prebuild AlamofireImage */,
 				91712ED2201A927232B8668E3677594D /* Sources */,
+				46EB2E00016090 /* [XCRC] Postbuild AlamofireImage */,
 				5D5271B49682980BEE5CC695317CEBEB /* Frameworks */,
 				8375D1AE73BEFB1F13A974484408AFB9 /* Resources */,
 			);
@@ -11831,7 +11879,9 @@
 			buildConfigurationList = BA2432079C4BF8AB52AF589664C88B11 /* Build configuration list for PBXNativeTarget "GoogleSignIn" */;
 			buildPhases = (
 				30FCB41FB612F0AE884B40FFAC34F267 /* Headers */,
+				46EB2E00016280 /* [XCRC] Prebuild GoogleSignIn */,
 				15D5FFCBC73B7485BDCF8EECE8DCE17F /* Sources */,
+				46EB2E00016290 /* [XCRC] Postbuild GoogleSignIn */,
 				2DB4560293A4030C46B4728187F95E48 /* Frameworks */,
 				B7F39BF53B8135D4EB9FF2CFFF72661D /* Resources */,
 			);
@@ -11853,7 +11903,9 @@
 			buildConfigurationList = C902F484BD6C5C203388ABEC1294D88C /* Build configuration list for PBXNativeTarget "Sift" */;
 			buildPhases = (
 				F5E1BD40E7566DF2D02C8ADF75E71875 /* Headers */,
+				46EB2E000163C0 /* [XCRC] Prebuild Sift */,
 				92649D6F0AD14ABD5ABFDBA1A380C3FA /* Sources */,
+				46EB2E000163D0 /* [XCRC] Postbuild Sift */,
 				1AF2919998AECAAAB0B6A525376ABE08 /* Frameworks */,
 				2C268822F6575D3FC18ADAF9A853083F /* Resources */,
 			);
@@ -11871,7 +11923,9 @@
 			buildConfigurationList = 7C76C1DBBF358F565D648BC0D709DC95 /* Build configuration list for PBXNativeTarget "nanopb" */;
 			buildPhases = (
 				E9F3170C684E0E2C4798319C1D62A5A0 /* Headers */,
+				46EB2E00016320 /* [XCRC] Prebuild nanopb */,
 				BE0DF800BD6D3EDAFEB02EC5E6E1ED95 /* Sources */,
+				46EB2E00016330 /* [XCRC] Postbuild nanopb */,
 				E7097AB4667F11373E0C85F111AAC2FC /* Frameworks */,
 				AB39EDE0F950072ABB7139858E9A9486 /* Resources */,
 			);
@@ -11889,7 +11943,9 @@
 			buildConfigurationList = 56986CF57935E6248A4F987766C9D556 /* Build configuration list for PBXNativeTarget "GTMSessionFetcher" */;
 			buildPhases = (
 				BF0771E964F5DAC7A49BF814F324C3A6 /* Headers */,
+				46EB2E000162E0 /* [XCRC] Prebuild GTMSessionFetcher */,
 				8CCA42440EF1BF68A658302988B7CEDB /* Sources */,
+				46EB2E000162F0 /* [XCRC] Postbuild GTMSessionFetcher */,
 				9A600D54FB90E965337DBA3D5137204F /* Frameworks */,
 				4A7A712AF279F9EDCB1925B4719FF5DA /* Resources */,
 			);
@@ -11907,7 +11963,9 @@
 			buildConfigurationList = 4DBA2FD8BA168E03E02C0DA79CBB02A9 /* Build configuration list for PBXNativeTarget "AdyenNetworking" */;
 			buildPhases = (
 				E20ED83DB56DBFBD488786B4CCDD1DA6 /* Headers */,
+				46EB2E00016020 /* [XCRC] Prebuild AdyenNetworking */,
 				FB2EBC6366F8944EC755CE7CFCDE62B9 /* Sources */,
+				46EB2E00016030 /* [XCRC] Postbuild AdyenNetworking */,
 				F769A0C5FFE9021CBEB796ACFD0D5297 /* Frameworks */,
 				EC06AA5E952A1DDAFE5B5B77E144EA34 /* Resources */,
 			);
@@ -11942,7 +12000,9 @@
 			buildConfigurationList = 0A19252EFDC2E5B40602EBB4A37B90CF /* Build configuration list for PBXNativeTarget "RxSwift" */;
 			buildPhases = (
 				D38C9C4327DCFAE362F7C6EB5A2D807B /* Headers */,
+				46EB2E000163A0 /* [XCRC] Prebuild RxSwift */,
 				5962DB8A88AAAE2CD2080476C8A7BBDA /* Sources */,
+				46EB2E000163B0 /* [XCRC] Postbuild RxSwift */,
 				5E4F2FAB7A7C9354B64B93D366CC958C /* Frameworks */,
 				C4FD46D65853B2A13ADE1039D4B67779 /* Resources */,
 			);
@@ -11960,7 +12020,9 @@
 			buildConfigurationList = 9C98220D3187BF01A20E296DC128BED4 /* Build configuration list for PBXNativeTarget "Alamofire" */;
 			buildPhases = (
 				14FF1799C5ADBC71E1DB963F2AF8853D /* Headers */,
+				46EB2E00016060 /* [XCRC] Prebuild Alamofire */,
 				5FE9836A67EA3E51CA889A1AB95BC874 /* Sources */,
+				46EB2E00016070 /* [XCRC] Postbuild Alamofire */,
 				39D530C2A3085A1033683EC9AE0BC313 /* Frameworks */,
 				93ECA2D9F79614966DFA76280ABFEF67 /* Resources */,
 			);
@@ -16514,6 +16576,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 32703AD1C3A7BBA6BE1667522A13CE40 /* FirebasePerformance.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -16526,24 +16589,35 @@
 				INFOPLIST_FILE = "Target Support Files/FirebasePerformance/FirebasePerformance-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebasePerformance/FirebasePerformance.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebasePerformance;
 				PRODUCT_NAME = FirebasePerformance;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -16571,10 +16645,8 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-RemoteCacheTest/Pods-RemoteCacheTest.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -16590,6 +16662,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 96203F953245626E632C717A31365023 /* AdyenNetworking.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -16603,23 +16676,34 @@
 				INFOPLIST_FILE = "Target Support Files/AdyenNetworking/AdyenNetworking-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/AdyenNetworking/AdyenNetworking.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = AdyenNetworking;
 				PRODUCT_NAME = AdyenNetworking;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -16647,10 +16731,8 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-RemoteCacheTest/Pods-RemoteCacheTest.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -16667,6 +16749,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A1F8646FEACBE0D3AADD2D6863DB2CEB /* AlamofireImage.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -16680,24 +16763,35 @@
 				INFOPLIST_FILE = "Target Support Files/AlamofireImage/AlamofireImage-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/AlamofireImage/AlamofireImage.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = AlamofireImage;
 				PRODUCT_NAME = AlamofireImage;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.3;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -16788,6 +16882,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E1C3E3AA834C875815F82EDC66580F9B /* FirebaseRemoteConfig.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -16800,24 +16895,35 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseRemoteConfig/FirebaseRemoteConfig-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseRemoteConfig/FirebaseRemoteConfig.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseRemoteConfig;
 				PRODUCT_NAME = FirebaseRemoteConfig;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -16825,6 +16931,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B4AD31687524000A648458BEAC3FEDB8 /* Adyen.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -16838,23 +16945,34 @@
 				INFOPLIST_FILE = "Target Support Files/Adyen/Adyen-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Adyen/Adyen.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Adyen;
 				PRODUCT_NAME = Adyen;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -16862,6 +16980,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5522DA7F07F8439F20C1B60BCC059D2F /* FirebaseCore.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -16873,24 +16992,35 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseCore/FirebaseCore-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseCore/FirebaseCore.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseCore;
 				PRODUCT_NAME = FirebaseCore;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -16898,6 +17028,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C27F2979E5B01267D839AFEABE685A21 /* RxCocoa.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -16910,23 +17041,34 @@
 				INFOPLIST_FILE = "Target Support Files/RxCocoa/RxCocoa-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/RxCocoa/RxCocoa.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = RxCocoa;
 				PRODUCT_NAME = RxCocoa;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -16952,6 +17094,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = EA6C39D498FC1B858BE6748BDD71C227 /* DTCoreText.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -16964,24 +17107,35 @@
 				INFOPLIST_FILE = "Target Support Files/DTCoreText/DTCoreText-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/DTCoreText/DTCoreText.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = DTCoreText;
 				PRODUCT_NAME = DTCoreText;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -16989,6 +17143,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5CD39704733FD7BE15A728A0B1760212 /* FirebaseInstallations.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17000,23 +17155,34 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseInstallations/FirebaseInstallations-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseInstallations/FirebaseInstallations.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseInstallations;
 				PRODUCT_NAME = FirebaseInstallations;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17024,6 +17190,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = DDB1076349DB7C281C59FE42481CC871 /* GTMAppAuth.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17035,24 +17202,35 @@
 				INFOPLIST_FILE = "Target Support Files/GTMAppAuth/GTMAppAuth-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/GTMAppAuth/GTMAppAuth.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = GTMAppAuth;
 				PRODUCT_NAME = GTMAppAuth;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -17077,6 +17255,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F1444E583D3633275C6862890C5B5074 /* RxRelay.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17089,23 +17268,34 @@
 				INFOPLIST_FILE = "Target Support Files/RxRelay/RxRelay-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/RxRelay/RxRelay.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = RxRelay;
 				PRODUCT_NAME = RxRelay;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17133,10 +17323,8 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-RemoteCacheTestTests/Pods-RemoteCacheTestTests.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -17153,6 +17341,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2A2C1FC5D7164B4FCB89857E430057D5 /* FirebaseABTesting.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -17165,23 +17354,34 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseABTesting/FirebaseABTesting-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseABTesting/FirebaseABTesting.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseABTesting;
 				PRODUCT_NAME = FirebaseABTesting;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17193,8 +17393,6 @@
 				IBSC_MODULE = Adyen;
 				INFOPLIST_FILE = "Target Support Files/Adyen/ResourceBundle-Adyen-Adyen-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_NAME = Adyen;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -17258,6 +17456,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D7C519FF2055103AA2F243EF830D6D5C /* FirebaseCore.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17269,23 +17468,34 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseCore/FirebaseCore-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseCore/FirebaseCore.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseCore;
 				PRODUCT_NAME = FirebaseCore;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17293,6 +17503,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5EE15738A8203CF0D705BF1A20F8FFC7 /* RxCocoa.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17305,24 +17516,35 @@
 				INFOPLIST_FILE = "Target Support Files/RxCocoa/RxCocoa-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/RxCocoa/RxCocoa.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = RxCocoa;
 				PRODUCT_NAME = RxCocoa;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -17392,6 +17614,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 98022A1DA8C0CBB341E3282B41512923 /* AppAuth.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17404,23 +17627,34 @@
 				INFOPLIST_FILE = "Target Support Files/AppAuth/AppAuth-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/AppAuth/AppAuth.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = AppAuth;
 				PRODUCT_NAME = AppAuth;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17428,6 +17662,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 20F20BA8705BCBE0AD5A5F0DD56AF198 /* RxSwift.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17440,23 +17675,34 @@
 				INFOPLIST_FILE = "Target Support Files/RxSwift/RxSwift-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/RxSwift/RxSwift.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = RxSwift;
 				PRODUCT_NAME = RxSwift;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17464,6 +17710,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9123E62002A640FFBE33842D0046F50D /* GoogleUtilities.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17475,23 +17722,34 @@
 				INFOPLIST_FILE = "Target Support Files/GoogleUtilities/GoogleUtilities-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/GoogleUtilities/GoogleUtilities.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = GoogleUtilities;
 				PRODUCT_NAME = GoogleUtilities;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17499,6 +17757,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BED01E639BBD1C9741D5E13AB0D4C733 /* Sift.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17511,24 +17770,35 @@
 				INFOPLIST_FILE = "Target Support Files/Sift/Sift-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Sift/Sift.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Sift;
 				PRODUCT_NAME = Sift;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -17536,6 +17806,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0D47C19BC8D75BF760B40B8D28596B2C /* Adyen.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -17549,24 +17820,35 @@
 				INFOPLIST_FILE = "Target Support Files/Adyen/Adyen-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Adyen/Adyen.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Adyen;
 				PRODUCT_NAME = Adyen;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -17574,6 +17856,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 616ACAEB26921B4D7B3507279EDBB972 /* Branch.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17586,23 +17869,34 @@
 				INFOPLIST_FILE = "Target Support Files/Branch/Branch-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Branch/Branch.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Branch;
 				PRODUCT_NAME = Branch;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17610,6 +17904,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 72CCFC8F6C7AAAB2C83664FC7DEB4EB7 /* AffirmSDK.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17622,23 +17917,34 @@
 				INFOPLIST_FILE = "Target Support Files/AffirmSDK/AffirmSDK-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/AffirmSDK/AffirmSDK.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = AffirmSDK;
 				PRODUCT_NAME = AffirmSDK;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17646,6 +17952,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 524DE4C89F178C536DD0C6433B61BF84 /* FirebaseCrashlytics.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17657,24 +17964,35 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseCrashlytics/FirebaseCrashlytics-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseCrashlytics/FirebaseCrashlytics.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseCrashlytics;
 				PRODUCT_NAME = FirebaseCrashlytics;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -17700,6 +18018,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8DD585B97AFC3B12EC6324BCDB76F874 /* AlamofireImage.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -17713,23 +18032,34 @@
 				INFOPLIST_FILE = "Target Support Files/AlamofireImage/AlamofireImage-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/AlamofireImage/AlamofireImage.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = AlamofireImage;
 				PRODUCT_NAME = AlamofireImage;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.3;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17737,6 +18067,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 139FE5C856A7360FE8726651590EAC5D /* GoogleDataTransport.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17748,23 +18079,34 @@
 				INFOPLIST_FILE = "Target Support Files/GoogleDataTransport/GoogleDataTransport-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/GoogleDataTransport/GoogleDataTransport.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = GoogleDataTransport;
 				PRODUCT_NAME = GoogleDataTransport;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -17807,6 +18149,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C363879C16EE889D1396BD85CAD3AA98 /* nanopb.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17819,24 +18162,35 @@
 				INFOPLIST_FILE = "Target Support Files/nanopb/nanopb-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/nanopb/nanopb.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = nanopb;
 				PRODUCT_NAME = nanopb;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -17844,6 +18198,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A20A3F4BE7B85F576C0A0C4F7D7E1277 /* Charts.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17856,24 +18211,35 @@
 				INFOPLIST_FILE = "Target Support Files/Charts/Charts-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Charts/Charts.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Charts;
 				PRODUCT_NAME = Charts;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.3;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -17881,6 +18247,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F4698E05FA00C116690852719729F726 /* RxRelay.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17893,24 +18260,35 @@
 				INFOPLIST_FILE = "Target Support Files/RxRelay/RxRelay-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/RxRelay/RxRelay.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = RxRelay;
 				PRODUCT_NAME = RxRelay;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -17922,8 +18300,6 @@
 				IBSC_MODULE = Adyen;
 				INFOPLIST_FILE = "Target Support Files/Adyen/ResourceBundle-Adyen-Adyen-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_NAME = Adyen;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -17940,8 +18316,6 @@
 				IBSC_MODULE = GoogleSignIn;
 				INFOPLIST_FILE = "Target Support Files/GoogleSignIn/ResourceBundle-GoogleSignIn-GoogleSignIn-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_NAME = GoogleSignIn;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -17970,6 +18344,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 50F409D4F02B5B608D7E02C18D6135FB /* PromisesObjC.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -17980,23 +18355,34 @@
 				INFOPLIST_FILE = "Target Support Files/PromisesObjC/PromisesObjC-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/PromisesObjC/PromisesObjC.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FBLPromises;
 				PRODUCT_NAME = FBLPromises;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18004,6 +18390,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 047F91B9B08780BF3114E2C602F87F63 /* Branch.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18016,24 +18403,35 @@
 				INFOPLIST_FILE = "Target Support Files/Branch/Branch-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Branch/Branch.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Branch;
 				PRODUCT_NAME = Branch;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18041,6 +18439,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D9077F0FD8415318FB21E1BF550E3A3C /* FirebaseInstallations.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18052,24 +18451,35 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseInstallations/FirebaseInstallations-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseInstallations/FirebaseInstallations.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseInstallations;
 				PRODUCT_NAME = FirebaseInstallations;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18077,6 +18487,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F3586B0F80853E570F73792D269DAE0E /* GTMAppAuth.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18088,23 +18499,34 @@
 				INFOPLIST_FILE = "Target Support Files/GTMAppAuth/GTMAppAuth-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/GTMAppAuth/GTMAppAuth.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = GTMAppAuth;
 				PRODUCT_NAME = GTMAppAuth;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18112,6 +18534,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 61F497055BE616F4C7B7E0E6747827F6 /* DTCoreText.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18124,23 +18547,34 @@
 				INFOPLIST_FILE = "Target Support Files/DTCoreText/DTCoreText-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/DTCoreText/DTCoreText.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = DTCoreText;
 				PRODUCT_NAME = DTCoreText;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18165,6 +18599,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A9F08558DBE397510840BCE3211AA931 /* Alamofire.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -18178,24 +18613,35 @@
 				INFOPLIST_FILE = "Target Support Files/Alamofire/Alamofire-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Alamofire/Alamofire.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Alamofire;
 				PRODUCT_NAME = Alamofire;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.5;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18221,6 +18667,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9BDF079F96D1F590BF52DBD5BE7AA151 /* GoogleSignIn.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18231,24 +18678,35 @@
 				INFOPLIST_FILE = "Target Support Files/GoogleSignIn/GoogleSignIn-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/GoogleSignIn/GoogleSignIn.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = GoogleSignIn;
 				PRODUCT_NAME = GoogleSignIn;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18256,6 +18714,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8C649E8229AC37CE63B62F35D7B6DEFE /* nanopb.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18268,23 +18727,34 @@
 				INFOPLIST_FILE = "Target Support Files/nanopb/nanopb-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/nanopb/nanopb.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = nanopb;
 				PRODUCT_NAME = nanopb;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18308,6 +18778,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BF0421FFB2D9C6A34EE1228E8C88F5AC /* AdyenNetworking.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -18321,24 +18792,35 @@
 				INFOPLIST_FILE = "Target Support Files/AdyenNetworking/AdyenNetworking-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/AdyenNetworking/AdyenNetworking.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = AdyenNetworking;
 				PRODUCT_NAME = AdyenNetworking;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18346,6 +18828,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 608FE672419FD668D7AF592320EB7692 /* GTMSessionFetcher.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18358,24 +18841,35 @@
 				INFOPLIST_FILE = "Target Support Files/GTMSessionFetcher/GTMSessionFetcher-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/GTMSessionFetcher/GTMSessionFetcher.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = GTMSessionFetcher;
 				PRODUCT_NAME = GTMSessionFetcher;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18383,6 +18877,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BAA0EFF58F9B4B0D8135E5A3E7F62EAF /* DTFoundation.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18395,24 +18890,35 @@
 				INFOPLIST_FILE = "Target Support Files/DTFoundation/DTFoundation-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/DTFoundation/DTFoundation.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = DTFoundation;
 				PRODUCT_NAME = DTFoundation;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18420,6 +18926,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9117A86540E7E8DBCBBB1D8FAC6C88D5 /* FirebaseRemoteConfig.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -18432,23 +18939,34 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseRemoteConfig/FirebaseRemoteConfig-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseRemoteConfig/FirebaseRemoteConfig.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseRemoteConfig;
 				PRODUCT_NAME = FirebaseRemoteConfig;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18490,6 +19008,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A5AD478B40A768A551FFE13B92C1802F /* Atributika.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18502,23 +19021,34 @@
 				INFOPLIST_FILE = "Target Support Files/Atributika/Atributika-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Atributika/Atributika.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Atributika;
 				PRODUCT_NAME = Atributika;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18526,6 +19056,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9A5ACF158A266465CEF3A746F8BF3F47 /* FirebaseCoreDiagnostics.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18537,23 +19068,34 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseCoreDiagnostics;
 				PRODUCT_NAME = FirebaseCoreDiagnostics;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18615,10 +19157,8 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-RemoteCacheTest-RemoteCacheTestUITests/Pods-RemoteCacheTest-RemoteCacheTestUITests.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -18639,8 +19179,6 @@
 				IBSC_MODULE = Adyen;
 				INFOPLIST_FILE = "Target Support Files/Adyen/ResourceBundle-AdyenCard-Adyen-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_NAME = AdyenCard;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -18653,6 +19191,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E51DC7117316EAF905D196C95F859300 /* Braintree.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -18666,23 +19205,34 @@
 				INFOPLIST_FILE = "Target Support Files/Braintree/Braintree-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Braintree/Braintree.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Braintree;
 				PRODUCT_NAME = Braintree;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18690,6 +19240,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D84E868363D156362B4362DA71E9404F /* GoogleUtilities.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18701,24 +19252,35 @@
 				INFOPLIST_FILE = "Target Support Files/GoogleUtilities/GoogleUtilities-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/GoogleUtilities/GoogleUtilities.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = GoogleUtilities;
 				PRODUCT_NAME = GoogleUtilities;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18726,6 +19288,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = AC99CA6F89D3ABEA72B18AAA7802BA62 /* GoogleSignIn.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18736,23 +19299,34 @@
 				INFOPLIST_FILE = "Target Support Files/GoogleSignIn/GoogleSignIn-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/GoogleSignIn/GoogleSignIn.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = GoogleSignIn;
 				PRODUCT_NAME = GoogleSignIn;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18778,6 +19352,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FF752EB56C8D90F2090018BCB3141425 /* AffirmSDK.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18790,24 +19365,35 @@
 				INFOPLIST_FILE = "Target Support Files/AffirmSDK/AffirmSDK-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/AffirmSDK/AffirmSDK.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = AffirmSDK;
 				PRODUCT_NAME = AffirmSDK;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18815,6 +19401,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2DB74DDDFC7CE4D929882F5A478A39EA /* GTMSessionFetcher.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18827,23 +19414,34 @@
 				INFOPLIST_FILE = "Target Support Files/GTMSessionFetcher/GTMSessionFetcher-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/GTMSessionFetcher/GTMSessionFetcher.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = GTMSessionFetcher;
 				PRODUCT_NAME = GTMSessionFetcher;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18855,8 +19453,6 @@
 				IBSC_MODULE = GoogleSignIn;
 				INFOPLIST_FILE = "Target Support Files/GoogleSignIn/ResourceBundle-GoogleSignIn-GoogleSignIn-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_NAME = GoogleSignIn;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -18869,6 +19465,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B588C79037E0108449B4405E8FCBCD43 /* DTFoundation.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18881,23 +19478,34 @@
 				INFOPLIST_FILE = "Target Support Files/DTFoundation/DTFoundation-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/DTFoundation/DTFoundation.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = DTFoundation;
 				PRODUCT_NAME = DTFoundation;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -18905,6 +19513,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4D77B3885ECE0C7F9BC5859AD3B6F7B9 /* MBProgressHUD.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18917,24 +19526,35 @@
 				INFOPLIST_FILE = "Target Support Files/MBProgressHUD/MBProgressHUD-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/MBProgressHUD/MBProgressHUD.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = MBProgressHUD;
 				PRODUCT_NAME = MBProgressHUD;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18942,6 +19562,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5FAB4ECFE06C87A55E8C491906B5E862 /* Atributika.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18954,24 +19575,35 @@
 				INFOPLIST_FILE = "Target Support Files/Atributika/Atributika-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Atributika/Atributika.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Atributika;
 				PRODUCT_NAME = Atributika;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -18979,6 +19611,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 41C856E902E880009061BF3A272C5862 /* AppAuth.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -18991,24 +19624,35 @@
 				INFOPLIST_FILE = "Target Support Files/AppAuth/AppAuth-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/AppAuth/AppAuth.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = AppAuth;
 				PRODUCT_NAME = AppAuth;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -19033,6 +19677,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 56263BC3225C8C304366717DB8EF25B9 /* Sift.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -19045,23 +19690,34 @@
 				INFOPLIST_FILE = "Target Support Files/Sift/Sift-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Sift/Sift.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Sift;
 				PRODUCT_NAME = Sift;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -19069,6 +19725,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1E616F774E2D33E49F8046955820ED55 /* RxSwift.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -19081,24 +19738,35 @@
 				INFOPLIST_FILE = "Target Support Files/RxSwift/RxSwift-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/RxSwift/RxSwift.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = RxSwift;
 				PRODUCT_NAME = RxSwift;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -19106,6 +19774,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = EB8697084C5645A7F923AABBBE71B941 /* GoogleDataTransport.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -19117,24 +19786,35 @@
 				INFOPLIST_FILE = "Target Support Files/GoogleDataTransport/GoogleDataTransport-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/GoogleDataTransport/GoogleDataTransport.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = GoogleDataTransport;
 				PRODUCT_NAME = GoogleDataTransport;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -19142,6 +19822,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E4FC75B8AA8D9B4A16AF90FD0ED0D607 /* FirebaseCoreDiagnostics.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -19153,24 +19834,35 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseCoreDiagnostics;
 				PRODUCT_NAME = FirebaseCoreDiagnostics;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -19178,6 +19870,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B94D54112C9C23B13E942E0980D1D73E /* FirebasePerformance.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -19190,23 +19883,34 @@
 				INFOPLIST_FILE = "Target Support Files/FirebasePerformance/FirebasePerformance-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebasePerformance/FirebasePerformance.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebasePerformance;
 				PRODUCT_NAME = FirebasePerformance;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -19214,6 +19918,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 16D6A67F67A849A6F31C8D795941CBF7 /* PromisesObjC.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -19224,24 +19929,35 @@
 				INFOPLIST_FILE = "Target Support Files/PromisesObjC/PromisesObjC-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/PromisesObjC/PromisesObjC.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FBLPromises;
 				PRODUCT_NAME = FBLPromises;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -19266,6 +19982,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3187C7BE4FCC36F93B23B4CAE273968A /* Alamofire.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -19279,23 +19996,34 @@
 				INFOPLIST_FILE = "Target Support Files/Alamofire/Alamofire-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Alamofire/Alamofire.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Alamofire;
 				PRODUCT_NAME = Alamofire;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.5;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -19303,6 +20031,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C679E64763E927D78E32E4D660AB7138 /* MBProgressHUD.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -19315,23 +20044,34 @@
 				INFOPLIST_FILE = "Target Support Files/MBProgressHUD/MBProgressHUD-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/MBProgressHUD/MBProgressHUD.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = MBProgressHUD;
 				PRODUCT_NAME = MBProgressHUD;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -19355,6 +20095,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 49B398155ED5F029E089AD63C14F2490 /* FirebaseABTesting.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -19367,24 +20108,35 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseABTesting/FirebaseABTesting-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseABTesting/FirebaseABTesting.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseABTesting;
 				PRODUCT_NAME = FirebaseABTesting;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -19412,10 +20164,8 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-RemoteCacheTestTests/Pods-RemoteCacheTestTests.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19431,6 +20181,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 88C5913C0CC003E203B56FC00D8764AB /* FirebaseCrashlytics.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -19442,23 +20193,34 @@
 				INFOPLIST_FILE = "Target Support Files/FirebaseCrashlytics/FirebaseCrashlytics-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/FirebaseCrashlytics/FirebaseCrashlytics.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = FirebaseCrashlytics;
 				PRODUCT_NAME = FirebaseCrashlytics;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -19486,10 +20248,8 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-RemoteCacheTest-RemoteCacheTestUITests/Pods-RemoteCacheTest-RemoteCacheTestUITests.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19505,6 +20265,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 023354CFAE5A32EC6605F8A6A1574FF0 /* Charts.debug.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -19517,23 +20278,34 @@
 				INFOPLIST_FILE = "Target Support Files/Charts/Charts-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Charts/Charts.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Charts;
 				PRODUCT_NAME = Charts;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.3;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Debug;
 		};
@@ -19541,6 +20313,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B7E1C2F598A0081523DC4552E475A2E8 /* Braintree.release.xcconfig */;
 			buildSettings = {
+				CC = "$SRCROOT/../.rc/xccc";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -19554,24 +20327,35 @@
 				INFOPLIST_FILE = "Target Support Files/Braintree/Braintree-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD = "$SRCROOT/../XCRC/xcld";
+				LDPLUSPLUS = "$SRCROOT/../XCRC/xcldplusplus";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LIBTOOL = "$SRCROOT/../XCRC/xclibtool";
 				MODULEMAP_FILE = "Target Support Files/Braintree/Braintree.modulemap";
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-fdebug-prefix-map=$(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -debug-prefix-map $(SRCROOT:dir:standardizepath)=$(XCREMOTE_CACHE_FAKE_SRCROOT)";
 				PRODUCT_MODULE_NAME = Braintree;
 				PRODUCT_NAME = Braintree;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_EXEC = "$SRCROOT/../XCRC/xcswiftc";
+				SWIFT_USE_INTEGRATED_DRIVER = NO;
 				SWIFT_VERSION = 5.1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				XCRC_COOCAPODS_ROOT = "$SRCROOT/../";
+				XCRC_PLATFORM_PREFERRED_ARCH = "$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(PLATFORM_PREFERRED_ARCH):dir:standardizepath:file:default=arm64)";
+				XCREMOTE_CACHE_FAKE_SRCROOT = /xxxxxxxxxx;
 			};
 			name = Release;
 		};
@@ -19583,8 +20367,6 @@
 				IBSC_MODULE = Adyen;
 				INFOPLIST_FILE = "Target Support Files/Adyen/ResourceBundle-AdyenCard-Adyen-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				OTHER_CFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_NAME = AdyenCard;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;

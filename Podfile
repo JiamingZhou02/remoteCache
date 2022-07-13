@@ -4,9 +4,11 @@
 plugin 'cocoapods-xcremotecache'
 
 xcremotecache({
-    'cache_addresses' => ['http://localhost:8080/cache/pods'],
-    'primary_repo' => 'https://github.com/JiamingZhou02/remoteCache.git',
-    'mode' => 'consumer'
+  'cache_addresses' => ['http://localhost:8080/cache/pods'],
+  'primary_repo' => 'https://github.com/JiamingZhou02/remoteCache.git',
+  'mode' => 'consumer',
+  'final_target' => 'RemoteCacheTest',
+  'primary_branch' => 'main'
 })
 
 target 'RemoteCacheTest' do
