@@ -1,6 +1,14 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
+plugin 'cocoapods-xcremotecache'
+
+xcremotecache({
+    'cache_addresses' => ['http://localhost:8080/cache/pods'],
+    'primary_repo' => 'https://github.com/JiamingZhou02/remoteCache.git',
+    'mode' => 'consumer'
+})
+
 target 'RemoteCacheTest' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
