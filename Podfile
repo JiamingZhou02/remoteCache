@@ -8,6 +8,7 @@ xcremotecache({
   'primary_repo' => 'https://github.com/JiamingZhou02/remoteCache.git',
   'mode' => 'producer',
   'final_target' => 'RemoteCacheTest',
+  'targets-include' => 'testFramework',
   'primary_branch' => 'main'
 })
 
